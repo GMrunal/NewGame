@@ -20,6 +20,7 @@ public class AmzonHomePage {
 		System.out.println(driver.getTitle());
 		driver.findElement(By.id("nav-hamburger-menu"));
 		System.out.println("hello from git");
+		System.out.println("hellog goksd");
 		// WebElement monthdd=driver.findElement (By.xpath("//select[@id='month']"));
 		// String Text1 =
 		// driver.findElement(By.xpath("//div[@id='hmenu-customer-profile-right']")).getText();
